@@ -11,8 +11,7 @@ package sudoku;
      */
     import java.io.*;
     import java.util.*;
-//wech jon 
-
+//Commentaire - Nom - Date ...
     public class SudokuSolver {
         public static void main(String[] args) throws Exception {
             // Open the file containing the givens
