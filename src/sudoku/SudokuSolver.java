@@ -14,6 +14,9 @@ package sudoku;
 //Commentaire - Nom - Date ...
     public class SudokuSolver {
         public static void main(String[] args) throws Exception {
+            
+            System.out.println("Coucou, je suis modifié !");
+            
             // Open the file containing the givens
             File file = new File(args[0]);
             FileReader rd = new FileReader(args[0]);
